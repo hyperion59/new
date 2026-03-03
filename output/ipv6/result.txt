@@ -103,4 +103,4 @@ CCTV-17,http://dsj.motem.top:8880/gaoma/cctv17.m3u8$订阅源
 游戏频道,#genre#
 
 🕘️更新时间,#genre#
-2026-03-03 06:44:59,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8$订阅源
+2026-03-03 19:00:29,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8$订阅源
